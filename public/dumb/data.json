@@ -1,0 +1,44 @@
+{
+    "user": [
+        {
+            "name": "hamza",
+            "posts": [
+                {
+                    "title": "today we are learning something",
+                    "img": "/images/cp1.jpg",
+                    "likes": [
+                        {
+                            "id": "12314"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "id": "23423",
+                            "message": "that's great!"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "abdul razaq",
+            "posts": [
+                {
+                    "title": "today we are making fun ",
+                    "img": "/images/cp2.jpg",
+                    "likes": [
+                        {
+                            "id": "56756"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "id": "56756",
+                            "message": "that's very great!"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
